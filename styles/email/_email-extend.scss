@@ -11,4 +11,4 @@
 //  Importing fonts from an external CSS file, rather than embedding @font-face declarations inside the <style> tag,
 //  as the latter will cause font rendering issues if the web fonts are inaccessible.
 
-@import url("{{base_url_path}}/css/email-fonts.css");
+@import url("~base-url-path/css/email-fonts.css");
